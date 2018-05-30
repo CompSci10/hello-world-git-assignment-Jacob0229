@@ -1,0 +1,1000 @@
+   17  git commit -m "completed first step"
+   18  git config Jacob Rhoads
+   19  ls
+   20  clear
+   21  git config
+   22  git config llll
+   23  git commit -m "l"
+   24  git status
+   25  git log
+   26  git reset 8cae0399
+   27  git reset 8cae039
+   28  git checkout HEAD
+   29  ls
+   30  git checkout HEAD meal-log.txt
+   31  git log
+   32  git commit -m  "ignore the last message. I completed the first step."
+   33  git add meal-log.txt
+   34  git status
+   35  git add .meal-log.txt.swp
+   36  git log
+   37  git status
+   38  git log
+   39  git commit -m " completed first step"
+   40  git log
+   41  mkdir manhattan-zoo
+   42  ls
+   43  cd manhattan-zoo
+   44  git init
+   45  touch meal-log.txt
+   46  ls
+   47  git add meal-log.txt
+   48  ls
+   49  nano
+   50  nano meal-log.txt
+   51  ls
+   52  cd manhattan-zoo
+   53  ls
+   54  cd meal-log.txt
+   55  git init
+   56  nano
+   57  history
+   58  git add .meal-log.txt.swp
+   59  nano
+   60  git status
+   61  git log
+   62  ls
+   63  git add meal-log.txt
+   64  nano
+   65  touch meal-log.txt
+   66  ls
+   67  git status
+   68  ls
+   69  git status
+   70  nano
+   71  git init
+   72  ls
+   73  cd manhattan-zoo
+   74  ls
+   75  git add Meal-log.txt
+   76  nano
+   77  git status
+   78  git add manhattan-zo/
+   79  git add manhattan-zoo/
+   80  git status
+   81  git commit -m "I lost my file from yesterday so I started over"
+   82  git log
+   83  git commit -m "I have 3 more animals to complete"
+   84  git add manhattan-zoo/Meal-log.txt
+   85  git commit -m "I have 3 more animals to complete"
+   86  ls
+   87  cd manhattan-zoo
+   88  ls
+   89  git status
+   90  git commit -m "completed the chinchilla entry"
+   91  ls
+   92  git add Meal-log.txt
+   93  nano
+   94  git log
+   95  git status
+   96  git commit -m "completed the last animal just need to log"
+   97  git add manhattan-zoo/Meal-log.txt
+   98  git commit -m "completed the last animal just need to log"
+   99  git status
+  100  git log
+  101  cd manhattan-zoo
+  102  ls
+  103  git init
+  104  git add meal-log.txt
+  105  nano
+  106  history
+  107  cleear
+  108  clear
+  109  git reset HEAD meal-log.txt
+  110  git status
+  111  git log
+  112  touch meal-log.txt
+  113  ls
+  114  pwd
+  115  git init
+  116  git add meal-log.txt
+  117  pwd
+  118  git status
+  119  git add .meal-log.txt.swp
+  120  git add meal-log.txt
+  121  git log
+  122  nano
+  123  ls
+  124  cd manhattan-zoo
+  125  ls
+  126  git init
+  127  git add Meal.txt
+  128  git add Meal-log.txt
+  129  nano
+  130  git log
+  131  git status
+  132  history
+  133  git add manhattan-zoo/Meal-log.txt
+  134  pwd
+  135  git log
+  136  git add manhattan-zoo/
+  137  git add Meal-log.txt
+  138  git status
+  139  nano
+  140  nano Meal-log.txt
+  141  git log
+  142  rm meal-log.txt
+  143  ls
+  144  git log
+  145  git commit -m "completed the last animal just need to log"
+  146  git log
+  147  touch commit-history.txt
+  148  ls
+  149  git log > commit-history.txt
+  150  cat commit-history.txt
+  151  clear
+  152  git log
+  153  cat Meal-log.txt
+  154  clear
+  155  ls
+  156  git clone https://github.com/CompSci10/introduction-to-html-assignment-Jacob0229.git
+  157  ls
+  158  cd introduction-to-html-assignment-Jacob0229
+  159  touch index.html
+  160  ls
+  161  nano index.html
+  162  git commit -m "I didn't notice anything"
+  163  git add index.html<h1>Jacob<h1>
+  164  git add index.html
+  165  nano index.html
+  166  git commit -m "I didn't notice anything"
+  167  git log
+  168  ls
+  169  cd introduction-to-html-assignment-Jacob0229
+  170  git init
+  171  ls
+  172  nano.html
+  173  nano index.html
+  174  git log
+  175  clear
+  176  ls
+  177  nano index.html<h1>Jacob<h1>
+  178  nano index.html
+  179  git status
+  180  git add inedx.html
+  181  git add index.html
+  182  git commit -m "I have done a few steps"
+  183  git status
+  184  git log
+  185  cd introduction-to-html-assignment-Jacob0229
+  186  git init#
+  187  git init
+  188  git satus
+  189  git status
+  190  ls
+  191  git log
+  192  nano index.html
+  193  clear
+  194  git add index.html
+  195  git status
+  196  clear
+  197  git commit -m "My file was corrupted"
+  198  cd .git/objects/04/5fa857705302f115821d399e96958f956b7940
+  199  cd ..
+  200  ls
+  201  ls -a
+  202  cd .
+  203  ls
+  204  ls -a
+  205  git log
+  206  cd introduction-to-html-assignment-Jacob0229
+  207  cd jrhoads1
+  208  ls
+  209  cd introduction-to-html-assignment-Jacob0229
+  210  ls
+  211  git log
+  212  git status
+  213  ls -al
+  214  git status
+  215  git log
+  216  ls
+  217  less index.html
+  218  cd ../
+  219  mv introduction-to-html-assignment-Jacob0229/index.html ./
+  220  ls
+  221  rm -rf introduction-to-html-assignment-Jacob0229/
+  222  ls
+  223  git clone git://github.com/CompSci10/introduction-to-html-assignment-Jacob0229
+  224  ls 
+  225  mv index.html introduction-to-html-assignment-Jacob0229/
+  226  cd introduction-to-html-assignment-Jacob0229/
+  227  ls
+  228  git status
+  229  git add index.html 
+  230  git status
+  231  git commit -m "Restarted..."
+  232  git log
+  233  git push
+  234  git push  https://github.com/CompSci10/introduction-to-html-assignment-Jacob0229.git
+  235  Jacob022
+  236  git push  https://github.com/CompSci10/introduction-to-html-assignment-Jacob0229.git
+  237  ls
+  238  nano index.html
+  239  git push  https://github.com/CompSci10/introduction-to-html-assignment-Jacob0229.git
+  240  cd introduction-to-html-assignment-Jacob0229
+  241  ls
+  242  touch about.html
+  243  ls
+  244  git add about.html
+  245  git status
+  246  git commit -m "Added the about file"
+  247  git status
+  248  git log
+  249  nano about.html
+  250  git commit -m "Added to my about.html file"
+  251  git add about.html
+  252  git status
+  253  git commit -m "One step left to complete"
+  254  ls
+  255  cd introduction-to-html-assignment-Jacob0229
+  256  ls
+  257  git init
+  258  git add index.html
+  259  git status
+  260  git log
+  261  nano index.html
+  262  git commit -m "I have completed evrything and its ready to mark"
+  263  git push
+  264  git push https://github.com/CompSci10/introduction-to-html-assignment-Jacob0229.git
+  265  git clone https://github.com/CompSci10/web-page-assignment-Jacob0229.git
+  266  ls
+  267  git clone https://github.com/CompSci10/web-page-assignment-Jacob0229.git
+  268  ls
+  269  cd web-page-assignment-Jacob0229
+  270  ls
+  271  git add index.html
+  272  git status
+  273  cat index.html
+  274  nano index.html
+  275  git commit -m "I did not like all the random words"
+  276  git add index.html
+  277  git commit -m "I did not like all the random words"
+  278  git push
+  279  ls
+  280  cd web-page-assignment-Jacob0229
+  281  ls
+  282  cat index.html
+  283  nano index.html
+  284  git init
+  285  git status
+  286  git add index.html
+  287  git status
+  288  git commit -m "All done" 
+  289  git push https://github.com/CompSci10/introduction-to-html-assignment-Jacob0229.git
+  290  git push https://github.com/CompSci10/web-page-assignment-Jacob0229
+  291  nano index.html
+  292  git commit -m "I decided to do some touch ups" 
+  293  git add index.html
+  294  git commit -m "I decided to do some touch ups" 
+  295  git push https://github.com/CompSci10/web-page-assignment-Jacob0229
+  296  ls
+  297  cd web-page-assignment-Jacob0229
+  298  ls
+  299  cat index.html
+  300  curl https://processing.org/download/install-arm.sh | sudo sh
+  301  wget https://processing.org/download/install-arm.sh | sudo sh install-arm.sh
+  302  ls
+  303  sudo sh install-arm.sh 
+  304  ls
+  305  touch ascii-art-assignment.pde
+  306  ls
+  307  git init
+  308  git clone https://github.com/mariopineda/ascii-art-assignment.git
+  309  ls
+  310  cd ascii-art-assignment
+  311  ls
+  312  git init
+  313  mv ascii-art-assignment.pde
+  314  clear
+  315  git commit -m "completed the setup"
+  316  git init
+  317  git add ascii-art-assignment
+  318  git add ascii-art-assignment.pde
+  319  ls
+  320  touch ascii-art-assignment
+  321  ls
+  322  git add ascii-art-assignment
+  323  git commit -m "completed the setup"
+  324  git log
+  325  git status
+  326  git push
+  327  ls
+  328  cd ascii-art-assignment
+  329  ls
+  330  git init
+  331  git add ascii-art-assignment
+  332  git status
+  333  git log
+  334  git commit -m "I have started my full name
+  335  q
+  336  clear
+  337  $ clear
+  338  ls
+  339  cd ascii-art-assignment
+  340  cat ascii-art-assignment
+  341  ls
+  342  cat ascii-art-assignment
+  343  git status
+  344  git log
+  345  git init
+  346  git add ascii-art-assignment
+  347  git status
+  348  cat ascii-art-assignment.pde
+  349  git push
+  350  cd home
+  351  cd /home
+  352  ls'
+  353  ls
+  354  git clone https://github.com/Jacob0229/ascii-art-assignment.git
+  355  cd ascii-art-assignment 
+  356  ls
+  357  git clone https://github.com/Jacob0229/ascii-art-assignment.git
+  358  cd /home
+  359  rm ascii-art-assignment.pde 
+  360  rm -r ascii-art-assignment.pde 
+  361  touch ascii-art-assignment-Jake
+  362  cd ascii-art-assignment
+  363  ls
+  364  cd jrhoads1
+  365  ls
+  366  rm ascii-art-assignment.pde
+  367  ls
+  368  touch ascii-art-assignment-Jake
+  369  ls
+  370  cp ascii-art-assignment ascii-art-assignment-Jake
+  371  cat ascii-art-assignment-Jake
+  372  git init
+  373  git commit -m "completed assignment"
+  374  git add ascii-art-assignment
+  375  git commit -m "completed assignment"
+  376  ls
+  377  mv ascii-art-assignment-Jake ascii-art-assignment
+  378  ls
+  379  cd ascii-art-assignment
+  380  ls
+  381  git init
+  382  git log
+  383  git commit -m "Finished the assignment"
+  384  git add ascii-art-assignment-Jake
+  385  git status
+  386  git -m "i forgot to add the file last commit"
+  387  git commit  -m "i forgot to add the file last commit"
+  388  git push
+  389  ping www.google.ca
+  390  ping www.google.ca\
+  391  ping www.google.ca
+  392  ls
+  393  cd ascii-art-assignment
+  394  ls
+  395  git init
+  396  git push
+  397  ls
+  398  cat ascii-art-assignment-Jake
+  399  cat ascii-art-assignment
+  400  cd /home
+  401  ls
+  402  cd jrhoads1
+  403  ls
+  404  rm -r ascii-art-assignment
+  405  ls
+  406  cd ascii-art-assignment
+  407  ls
+  408  rm /ascii-art-assignment
+  409  rm ascii-art-assignment
+  410  cd /home
+  411  cd jrhoads1
+  412  rm -r  ascii-art-assignment
+  413  rm -r  ascii-art-assignment
+  414  ls
+  415  git clone https://github.com/Jacob0229/ascii-art-assignment.git
+  416  ls
+  417  cd ascii-art-assignment
+  418  ls
+  419  touch ascii-art-assignment.pde
+  420  ls
+  421  git commit -m "I finally did it"
+  422  ls
+  423  cat ascii_art_assignment_pde
+  424  cd ascii_art_assignment_pde
+  425  ls
+  426  cat ascii_art_assignment_pde.pde
+  427  cd /home
+  428  cd jrhoads1
+  429  ls
+  430  cd ascii-art-assignment
+  431  ls
+  432  rm -r ascii-art-assignment.pde
+  433  ls
+  434  cd ascii_art_assignment_pde
+  435  ls
+  436  mv ascii_art_assignment_pde.pde ascii-art-assignment
+  437  ls
+  438  cd /home
+  439  cd jrhoads1
+  440  cd ascii-art-assignment
+  441  ls
+  442  cd ascii_art_assignment_pde
+  443  ls
+  444  cat ascii-art-assignment
+  445  ls
+  446  git push
+  447  git commit -m "There have been a few issues"
+  448  git add ./
+  449  git commit -m "There have been a few issues"
+  450  git push
+  451  cd /home
+  452  cd jrhoads1
+  453  ls
+  454  git clone https://github.com/Jacob0229/processing-console-assignment-2-formatting-text-output.git
+  455  ls
+  456  cd processing-console-assignment-2-formatting-text-output
+  457  ls
+  458  git nit
+  459  git init
+  460  cd processing-console-assignment-2-formatting-text-output
+  461  ls
+  462  git add Assignment_2
+  463  git commit -m "Working on my table ... having issues"
+  464  git push
+  465  ls
+  466  git init
+  467  cd processing-console-assignment-2-formatting-text-output
+  468  ls
+  469  cd Assignment_2
+  470  ls
+  471  git add Assignment_2.pde
+  472  git commit -m "Completed table, making request"
+  473  git push
+  474  cd /home
+  475  cd Jrhoads1
+  476  ls
+  477  cd jrhoads1
+  478  git clone https://github.com/Jacob0229/processing-console-assignment-3-text-files.git
+  479  ls
+  480  cd processing-console-assignment-3-text-files
+  481  ls
+  482  touch list.txt
+  483  ls
+  484  nano list.txt
+  485  ls
+  486  git add list.txt
+  487  cd Assignment_3
+  488  ls
+  489  git add Assignment_3.pde
+  490  git commit -m "I have both files and the skeleton done"
+  491  cd /home
+  492  cd jrhoads1
+  493  cd processing-console-assignment-3-text-files
+  494  ls
+  495  mv list.txt Assignment_3
+  496  ls
+  497  cd Assignment_3
+  498  ls
+  499  git commit -m "making code"
+  500  git add ../.list.txt.swp
+  501  git add list.txt
+  502  git commit -m "making code"
+  503  ls
+  504  cd processing-console-assignment-3-text-files
+  505  ls
+  506  rm -r list.txt
+  507  ls
+  508  touch list.txt
+  509  nano list.txt
+  510  cd
+  511  ls
+  512  cd processing-console-assignment-3-text-files
+  513  ls
+  514  cd Assignment_3
+  515  ls
+  516  nano Assignment_3.pde
+  517  ls
+  518  cd processing-console-assignment-3-text-files
+  519  ls
+  520  cd Assignment_3
+  521  ls
+  522  git init
+  523  git add Assignment_3.pde
+  524  ls
+  525  cat list.txt
+  526  nano dailyspecials.txt
+  527  ls
+  528  nano beverages.txt
+  529  nano list.txt
+  530  ls
+  531  cd processing-console-assignment-3-text-files
+  532  ls
+  533  cat list.txt.save
+  534  mv list.txt.save Assignment_3
+  535  ls
+  536  cd Assignment_3
+  537  ls
+  538  cat list.txt
+  539  nano list.txt
+  540  ls
+  541  nano list.txt
+  542  ls
+  543  rm -r  list.txt
+  544  ls
+  545  nano list.txt.save
+  546  ls
+  547  rm -r list.txt.save
+  548  ls
+  549  nano list.txt
+  550  git log
+  551  git commit -m "I changed some of the dialogue
+  552  ls
+  553  git status
+  554  git init
+  555  git add processing-console-assignment-3-text-files/
+  556  git commit -m "I changed some dialogue"
+  557  git push
+  558  ls
+  559  cd processing-console-assignment-3-text-files
+  560  ls
+  561  mv Assignment_3 jrhoads1
+  562  ls
+  563  cd /home
+  564  cd jrhoads1
+  565  ls
+  566  cd processing-console-assignment-3-text-files
+  567  ls
+  568  cd jrhoads1
+  569  ls
+  570  git init
+  571  git status
+  572  git add Assignment_3.pde
+  573  git add beverages.txt
+  574  git add dailyspecials.txt
+  575  git add list.txt
+  576  git log
+  577  git commit -m "I changed some dialogue"
+  578  git push
+  579  ls
+  580  cd processing-console-assignment-3-text-files
+  581  ls
+  582  cd /home
+  583  ls
+  584  cd jrhoads1
+  585  ls
+  586  cd processing-console-assignment-3-text-files
+  587  ls
+  588  mv jrhoads1 jrhoads1
+  589  mv jrhoads1 ascii-art-assignment
+  590  ls
+  591  cd ascii-art-assignment
+  592  ls
+  593  cd /home
+  594  cd jrhoads1
+  595  ls
+  596  cd processing-console-assignment-3-text-files
+  597  ls
+  598  mv ascii-art-assignment ~
+  599  mv -r  ascii-art-assignment ~
+  600  mvdir  ascii-art-assignment/ ~
+  601  mv ascii-art-assignment/ ~
+  602  mv -r ascii-art-assignment/ ~
+  603  mv -rf ascii-art-assignment/ ~
+  604  ls
+  605  ls ../
+  606  mv ascii-art-assignment/ ascii-art-assignment-3
+  607  cd ~
+  608  ls
+  609  cd processing-console-assignment-3-text-files/
+  610  ls
+  611  mv ascii-art-assignment-3/ ~
+  612  cd ~
+  613  ls
+  614  rm -r processing-console-assignment-3-text-files
+  615  ls
+  616  cd processing-console-assignment-3-text-files
+  617  ls
+  618  rm -r README.md
+  619  ls
+  620  cd ~
+  621  ls
+  622  rm -r processing-console-assignment-3-text-files
+  623  ls
+  624  ls
+  625  rm processing-console-assignment-3-text-files
+  626  rm -t processing-console-assignment-3-text-files
+  627  rm --help
+  628  rm -d processing-console-assignment-3-text-files
+  629  ls
+  630  cd processing-console-assignment-3-text-files
+  631  ls
+  632  rm -r processing-console-assignment-3-text-files
+  633  cd ~
+  634  rm -R processing-console-assignment-3-text-files
+  635  rm -rf processing-console-assignment-3-text-files
+  636  ls
+  637  git clone https://github.com/Jacob0229/processing-console-assignment-3-text-files.git
+  638  ls
+  639  mv ascii-art-assignment-3 processing-console-assignment-3-text-files
+  640  ls
+  641  cd processing-console-assignment-3-text-files
+  642  ls
+  643  git push
+  644  git commit -m "I changed some dialogue"
+  645  git add ascii-art-assignment-3/
+  646  git push
+  647  git log
+  648  git commit -m "I changed some dialogue"
+  649  git log
+  650  git push
+  651  ls
+  652  cd ~
+  653  ls
+  654  git clone https://github.com/mariopineda/processing-console-assignment-4-mad-libs.git
+  655  ls
+  656  cd processing-console-assignment-4-mad-libs
+  657  ls
+  658  cd MadLibs
+  659  ls
+  660  cd data
+  661  ls
+  662  touch poem.txt
+  663  nano poem.txt
+  664  cd ~
+  665  git commit -m "I Got my poem but have not changed anything"
+  666  git add processing-console-assignment-4-mad-libs/
+  667  git commit -m "I Got my poem but have not changed anything"
+  668  git push
+  669  ls
+  670  cd processing-console-assignment-4-mad-libs
+  671  ls
+  672  cd MadLibs
+  673  ls
+  674  cd data
+  675  ls
+  676  mv poem/ ~
+  677  ls
+  678  cd ~
+  679  ls
+  680  cd poem
+  681  ls
+  682  cd `
+  683  q
+  684  ls
+  685  rm -rf processing-console-assignment-4-mad-libs
+  686  ls
+  687  git init
+  688  git clone https://github.com/Jacob0229/processing-console-assignment-4-mad-libs.git
+  689  mv poem processing-console-assignment-4-mad-libs
+  690  ls
+  691  cd processing-console-assignment-4-mad-libs
+  692  ls
+  693  mv poem MadLibs
+  694  ls
+  695  cd MadLibs
+  696  ls
+  697  cat MadLibs.pde
+  698  cd peom
+  699  ls
+  700  cd data
+  701  ls
+  702  git status
+  703  git add poem.txt
+  704  git add sketch_180418a/
+  705  git commit -m "I need some help"
+  706  git push
+  707  ls
+  708  git init
+  709  cd processing-console-assignment-4-mad-libs
+  710  ls
+  711  cd MadLibs
+  712  ls
+  713  cd data
+  714  ls
+  715  cd ~
+  716  ls
+  717  git status
+  718  git add processing-console-assignment-4-mad-libs/MadLibs/data/Assignment4/
+  719  git log
+  720  ls
+  721  cd processing-console-assignment-4-mad-libs
+  722  ls
+  723  cd ~
+  724  cd processing-console-assignment-4-mad-libs
+  725  git commit -m "I am waiting for the demo so i can do array's
+  726  git commit -m "I am waiting for the demo so i can do array's"
+  727  git add MadLibs/data/Assignment4/
+  728  git commit -m "I am waiting for the demo so i can do array's"
+  729  git log
+  730  cd ~
+  731  ls
+  732  l
+  733  ls
+  734  cd Sandbox
+  735  ls
+  736  cd reading_text_files
+  737  ls
+  738  touch list.txt
+  739  nano list.txt
+  740  cd ~
+  741  ls
+  742  cd processing-console-assignment-4-mad-libs
+  743  ls
+  744  cd MadLibs
+  745  ls
+  746  cd data
+  747  ls
+  748  git commit -m "Working on fixing my code"
+  749  git add Assignment4/adjectives.txt
+  750  git add Assignment4/nouns.txt
+  751  git add Assignment4/poem.txt
+  752  git add Assignment4/verbs.txt
+  753  git commit -m "Working on fixing my code"
+  754  git push
+  755  git init
+  756  git log
+  757  ls
+  758  cd processing-console-assignment-4-mad-libs
+  759  ls
+  760  cd MadLibs
+  761  ls
+  762  cd data
+  763  ls
+  764  cd Assignment4
+  765  ls
+  766  cat /processing-console-assignment-4-mad-libs/MadLibs/data/Assignment4
+  767  cat Assignment4.pde
+  768  cd ~
+  769  ls
+  770  git pull
+  771  git status
+  772  git add processing-console-assignment-4-mad-libs/MadLibs/data/Assignment4/adjectives.txt
+  773  git add processing-console-assignment-4-mad-libs/MadLibs/data/Assignment4/nouns.txt
+  774  git add processing-console-assignment-4-mad-libs/MadLibs/data/Assignment4/poem.txt
+  775  git add processing-console-assignment-4-mad-libs/MadLibs/data/Assignment4/verbs.txt
+  776  git commit -m "Working on the loading random stuff"
+  777  git push
+  778  cd ~
+  779  ls
+  780  cd processing-console-assignment-4-mad-libs
+  781  git push
+  782  ls
+  783  cd processing-console-assignment-4-mad-libs
+  784  ls
+  785  git commit -m "Working on the loading random stuff"
+  786  git add MadLibs/data/Assignment4/Assignment4.pde
+  787  git add MadLibs/data/adjectives.txt
+  788  git add MadLibs/data/nouns.txt
+  789  git add MadLibs/data/verbs.txt
+  790  git add MadLibs
+  791  git status
+  792  git commit -m "Working on the loading random stuff"
+  793  git push
+  794  ls
+  795  git init
+  796  ls
+  797  git add processing-console-assignment-4-mad-libs
+  798  git status
+  799  clear
+  800  ls
+  801  git status
+  802  git commit -m "The order of lines was the issue"
+  803  git push
+  804  cd processing-console-assignment-4-mad-libs
+  805  git push
+  806  ls
+  807  cd processing-console-assignment-4-mad-libs
+  808  cd ~
+  809  ls
+  810  cd processing-console-assignment-4-mad-libs
+  811  git push
+  812  ls
+  813  cd processing-console-assignment-4-mad-libs
+  814  ls
+  815  cd MadLibs
+  816  git push
+  817  git clone https://github.com/Jacob0229/processing-graphics-1-smiley-face.git
+  818  ls
+  819  git init
+  820  git status
+  821  git add processing-graphics-1-smiley-face/
+  822  ls
+  823  cd processing-graphics-1-smiley-face/
+  824  ls
+  825  git commit -m "started@
+  826  git commit -m "started"
+  827  cd assignment/Smiley_face/
+  828  cd ~
+  829  cd processing-graphics-1-smiley-face
+  830  git a
+  831  git add assignment/Smiley_face/
+  832  git commit -m "started"
+  833  git push
+  834  git commit -m "smiley looks creepy"
+  835  git add assignment/Smiley_face/Smiley_face.pde
+  836  git commit -m "smiley looks creepy"
+  837  git push
+  838  ls
+  839  git status
+  840  cd pde-graphics-2-draw-a-scene
+  841  git commit -m "Need text, It will be something dumb."
+  842  git add assignment/assignment_2_pde/
+  843  git push
+  844  git commit -m "This is a house"
+  845  git push
+  846  cd ~
+  847  git clone https://github.com/Jacob0229/pde-graphics-3-collector-cards.git
+  848  ls
+  849  cd pde-graphics-3-collector-cards
+  850  git commit -m "I made my MEH"
+  851  git add demo/Assignment_3/Assignment_3.pde
+  852  git commit -m "I made my MEH"
+  853  git push
+  854  git commit -m "I am done"
+  855  git add 
+  856  git commit -m "I am done"
+  857  git push
+  858  git status
+  859  git add .
+  860  git status
+  861  git commit -m "I am done"
+  862  git push
+  863  git init
+  864  git clone https://github.com/Jacob0229/pde-graphics-4-time-table.git
+  865  ls
+  866  git commit -m "Working on finishing touches"
+  867  git add .
+  868  ls
+  869  git add pde-graphics-4-time-table
+  870  git commit -m "Working on finishing touches"
+  871  cd pde-graphics-4-time-table
+  872  git push
+  873  git init
+  874  git status
+  875  git commit -m "We lit"
+  876  git add pde-graphics-4-time-table
+  877  git commit -m "We lit"
+  878  cd pde-graphics-4-time-table
+  879  git commit -m "We lit"
+  880  git add assignment/Assignment_4/
+  881  git add Assignment_4/
+  882  git push 
+  883  git commit -m "We lit"
+  884  git push 
+  885  git clone https://github.com/Jacob0229/pde-graphics-5-sports-league.git
+  886  ls
+  887  pde-graphics-5-sports-league
+  888  cd pde-graphics-5-sports-league
+  889  git commit -m ""
+  890  git add Assignment_5/
+  891  git commit -m "Working on it"
+  892  git push
+  893  ls
+  894  git init
+  895  git status
+  896  git add pde-graphics-5-sports-league/
+  897  git commit "I am thinking of changing sizes of everything"
+  898  git commit -m "I am thinking of changing sizes of everything"
+  899  cd pde-graphics-5-sports-league/
+  900  git push
+  901  git commit -m "All code is pre-set and ready for placement change"
+  902  git add assignment/assignment.pde
+  903  git commit -m "All code is pre-set and ready for placement change"
+  904  git push
+  905  git commit -m "All Y-axis placements are correct"
+  906  git add Assignment_5/Assignment_5.pde
+  907  git commit -m "All Y-axis placements are correct"
+  908  git push
+  909  ls
+  910  git init
+  911  git clone https://github.com/Jacob0229/pde-graphics-6-animation.git
+  912  ls
+  913  cd pde-graphics-6-animation
+  914  git commit -m "I need to make it bounce back"
+  915  git add assignment/assignment.pde
+  916  git commit -m "I need to make it bounce back"
+  917  git push
+  918  ls
+  919  cd pde-graphics-6-animation
+  920  git commit -m ""
+  921  git add assignment/assignment.pde
+  922  git push
+  923  git commit -m "I did not do much because i am stuck again"
+  924  git init
+  925  ls
+  926  git add pde-graphics-6-animation
+  927  git commit -m "I have learned what i need to"
+  928  cd pde-graphics-6-animation
+  929  git push
+  930  git clone https://github.com/Jacob0229/pde-graphics-7-animated-square.git
+  931  git status
+  932  git add pde-graphics-7-animated-square/
+  933  cd pde-graphics-7-animated-square/
+  934  git commit -m "I dont have enough time to start"
+  935  git add Assignment_7.pde
+  936  git commit -m "I dont have enough time to start"
+  937  git push
+  938  git clone https://github.com/Jacob0229/pde-console-6-99-bottles.git
+  939  git clone https://github.com/CompSci10/hello-world-git-assignment-Jacob0229.git
+  940  git clone https://github.com/CompSci10/nano-assignment-Jacob0229.git
+  941  ls
+  942  git add processing-graphics-1-smiley-face
+  943  git commit - m "I have cleaned it up to try and improve my mark"
+  944  git commit -m "I have cleaned it up to try and improve my mark"
+  945  git push
+  946  cd processing-graphics-1-smiley-face
+  947  git commit -m "I have cleaned it up to try and improve my mark"
+  948  git add assignment/Smiley_face/Smiley_face.pde
+  949  git add assignment/assignment.pde
+  950  git commit -m "I have cleaned it up to try and improve my mark"
+  951  git push
+  952  ls
+  953  nano poem.txt
+  954  git commit -m "All tampering has been fixed"
+  955  git add poem.txt
+  956  git commit -m "All tampering has been fixed"
+  957  git branch
+  958  git clone MyPoem
+  959  git branch MyPoem
+  960  git branch
+  961  git ckeckout MyPoem
+  962  git checkout MyPoem
+  963  nano poem.txt
+  964  git commit -m "Ants are cooler than"
+  965  git add poem.txt
+  966  git commit -m "Ants are cooler than"
+  967  nano poem.txt
+  968  git commit -m "Name change"
+  969  git add poem.txt
+  970  git commit -m "Name change"
+  971  ls
+  972  cd hello-world-git-assignment-Jacob0229
+  973  ls
+  974  nano poem.txt
+  975  ls
+  976  cd hello-world-git-assignment-Jacob0229
+  977  ls
+  978  cat README.md
+  979  git tag
+  980  git tag version2
+  981  git branch
+  982  history
+  983* 
+  984  cd hello-world-git-assignment-Jacob0229
+  985  ls
+  986  cat README.md
+  987  git log
+  988  git init
+  989  git status
+  990  git checkout master
+  991  git merge MyPoem
+  992  git reset 578249e
+  993  git add hello-world-git-assignment-Jacob0229
+  994  git add poem.txt
+  995  git commit -m "I am not sure if my tag worked"
+  996  terminal history > history.txt
+  997  `terminal history > history.txt`
+  998  history
+  999  `terminal history > history.txt`
+ 1000  terminal history > history.txt
+ 1001  cleear
+ 1002  clear
+ 1003  cat REASME.txt
+ 1004  cat README.txt
+ 1005  ls
+ 1006* 
+ 1007  cat README.md
+ 1008  cd ~
+ 1009  terminal history > history.txt
+ 1010  `terminal history > history.txt`
+ 1011  history > history.txt
+ 1012  ls
+ 1013  cd hello-world-git-assignment-Jacob0229
+ 1014  ls
+ 1015  cat history.txt
+ 1016  history > history.txt
